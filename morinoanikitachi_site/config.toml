@@ -1,5 +1,5 @@
-baseURL = 'http://mori-no-anikitachi.github.io'
-baseurl = 'http://mori-no-anikitachi.github.io'
+baseURL = 'https://mori-no-anikitachi.github.io'
+baseurl = 'https://mori-no-anikitachi.github.io'
 title = "Creative portfolio"
 theme = "hugo-creative-portfolio-theme"
 languageCode = 'ja-jp'

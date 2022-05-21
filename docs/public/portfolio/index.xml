@@ -1,18 +1,18 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Creative portfolio</title>
-    <link>http://mori-no-anikitachi.github.io/</link>
-    <description>Recent content on Creative portfolio</description>
+    <title>Portfolios on Creative portfolio</title>
+    <link>https://mori-no-anikitachi.github.io/portfolio/</link>
+    <description>Recent content in Portfolios on Creative portfolio</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>ja-jp</language>
-    <lastBuildDate>Sun, 06 Nov 2016 13:00:25 +0530</lastBuildDate><atom:link href="http://mori-no-anikitachi.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sat, 05 Nov 2016 18:25:22 +0530</lastBuildDate><atom:link href="https://mori-no-anikitachi.github.io/portfolio/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Name of the work 1</title>
-      <link>http://mori-no-anikitachi.github.io/portfolio/work1/</link>
+      <link>https://mori-no-anikitachi.github.io/portfolio/work1/</link>
       <pubDate>Sat, 05 Nov 2016 18:25:22 +0530</pubDate>
       
-      <guid>http://mori-no-anikitachi.github.io/portfolio/work1/</guid>
+      <guid>https://mori-no-anikitachi.github.io/portfolio/work1/</guid>
       <description>&lt;p&gt;Even the all-powerful Pointing has no control about the blind texts it is an almost unorthographic life. One day however a small line of blind text by the name of Lorem Ipsum decided to leave for the far World of Grammar.&lt;/p&gt;</description>
     </item>
     

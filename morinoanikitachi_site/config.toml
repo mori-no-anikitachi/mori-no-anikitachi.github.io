@@ -1,5 +1,5 @@
 baseurl = 'https://mori-no-anikitachi.github.io/'
-title = "Creative portfolio"
+title = "森の兄貴たち"
 theme = "hugo-creative-portfolio-theme"
 languageCode = 'ja-jp'
 # Enable comments by entering your Disqus shortname
@@ -10,12 +10,12 @@ googleAnalytics = ""
 [params]
   # Style options: default (pink), blue, green, pink, red, sea, violet
   # Use custom.css for your custom styling
-  style = "default"
-  description = "Describe your website"
-  copyright = "&copy;2016 Your name or company"
+  style = "pink"
+  description = "同人誌の即売会等で二次元コンテンツと技術系を組み合わせた本を頒布している同人サークルです．"
+  copyright = "&copy;2022 森の兄貴たち"
   sidebarAbout = [
-    "I am a creative illustrator and graphic designer with more than 10 years of experience.",
-    "Originally from Toronto, currently based in London."
+    "二次元コンテンツ×技術本",
+    "同人誌の即売会等で二次元コンテンツと技術系を組み合わせた本を頒布している同人サークルです．"
   ]
   # Contact page
      # Since this template is static, the contact form uses www.formspree.io as a
@@ -29,7 +29,7 @@ googleAnalytics = ""
      # - send a dummy email yourself to confirm your account
      # - click the confirm link in the email from www.formspree.io
      # - you're done. Happy mailing!
-  email = "you@yoursite.com"
+  email = "mori.no.anikitachi@gmail.com"
 
     # Optional Matomo analytics (formerly piwik)
       # [params.analytics.matomo]
@@ -43,7 +43,7 @@ googleAnalytics = ""
   # Nav links in the side bar
   [[params.navlinks]]
   name = "Home"
-  url = "portfolio/"
+  url = "home/"
   home = true
 
   [[params.navlinks]]
@@ -55,14 +55,14 @@ googleAnalytics = ""
   url = "contact/"
 
   [params.social]
-  facebook      = "full page or profile url in facebook"
-  googleplus    = "full profile url in googleplus"
-  email         = "email@example.com"
-  twitter       = "full profile url in twitter"
-  linkedin      = "full profile url in linkedin"
-  stackoverflow = "full profile url in stackoverflow"
-  instagram     = "full profile url in instagram"
-  github        = "full profile url in github"
-  gitlab        = "full profile url in gitlab"
-  youtube       = "full profile url in youtube"
-  whatsapp      = "wa.me service link"
+  # facebook      = "full page or profile url in facebook"
+  # googleplus    = "full profile url in googleplus"
+  # email         = "email@example.com"
+  # twitter       = "full profile url in twitter"
+  # linkedin      = "full profile url in linkedin"
+  # stackoverflow = "full profile url in stackoverflow"
+  # instagram     = "full profile url in instagram"
+  github        = "https://github.com/mori-no-anikitachi"
+  # gitlab        = "full profile url in gitlab"
+  # youtube       = "full profile url in youtube"
+  # whatsapp      = "wa.me service link"

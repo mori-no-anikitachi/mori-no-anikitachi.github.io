@@ -30,3 +30,56 @@
   {{ printf `<link href="%s" rel="%s" type="%s" title="%s" />` .Permalink .Rel .MediaType.Type $.Site.Title | safeHTML }}
 {{ end }}
 {{ template "_internal/google_analytics.html" . }}
+
+
+{{ $og_img := default site.Params.ogpImage .Params.ogpImage }}
+{{ $staticImage := path.Join "/static" ($og_img | safeURL) }}
+{{ $imgcnf := imageConfig $staticImage }}
+{{ $og_img_resource := resources.Get (string $og_img) }}
+<!-- -- A-2. 設定コード生成  -- -->
+<meta property="og:image"               content="{{ $og_img | absURL}}"    />
+<meta property="twitter:image"          content="{{ $og_img | absURL}}"    />
+<meta property="og:image:alt"           content="{{ $og_img | absURL}}"  />
+<meta property="twitter:image:alt"      content="{{ $og_img | absURL}}"  />
+<meta property="og:image:secure_url"    content="{{ $og_img | absURL}}"    />
+<meta property="og:image:width"         content="{{ $imgcnf.Width }}" />
+<meta property="og:image:height"        content="{{ $imgcnf.Height }}" />
+<a>{{ print (string $staticImage)}} </a>
+
+<!-- B. set ogp title -->
+<!-- -- B-1. 変数初期化  -- -->
+<!-- -- --  タイトルをデフォルトでconfig.tomlのtitleに設定，-- -- -->
+<!-- -- --  もしmdファイルでtitleを指定していたらそっちを採用       -- -- -->
+{{ $og_title := default .Site.Title .Params.title }}
+<!-- -- B-2. 設定コード生成  -- -->
+<meta name="title"              content="{{ $og_title }}" />
+<meta property="og:title"       content="{{ $og_title }}" />
+<meta property="twitter:title"  content="{{ $og_title }}" />
+
+<!-- C.set ogp description -->
+<!-- -- C-1. 変数初期化  -- -->
+<!-- -- --  タイトルをデフォルトでconfig.tomlのdescriptionに設定，-- -- -->
+<!-- -- --  もしmdファイルでdescriptionを指定していたらそっちを採用       -- -- -->
+{{ $og_description := default site.Params.description .Params.Description }}
+<!-- -- B-2. 設定コード生成  -- -->
+<meta name="description"                content="{{ $og_description }}">
+<meta property="og:description"         content="{{ $og_description }}" />
+<meta property="twitter:description"    content="{{ $og_description }}" />
+
+<!-- D.set ogp details -->
+<meta property="og:site_name"   content="{{ .Site.Title }}" />
+<meta property="og:url"         content="{{ .Permalink }}" />
+{{ if .IsHome}}
+<meta property="og:type"        content="website" />
+{{else}}
+<meta property="og:type"        content="article" />
+{{end}}
+
+<!-- 一応summary_large_imageも -->
+{{ if eq true .Params.IsSummaryLargeImage }}
+<meta property="twitter:card" content="summary_large_image" />
+{{ else }}
+<meta property="twitter:card" content="summary" />
+{{ end }}
+<meta property="twitter:creator"    content="{{site.Params.social.twitterID}}" />
+<meta property="twitter:site"       content="{{site.Params.social.twitterID}}" />

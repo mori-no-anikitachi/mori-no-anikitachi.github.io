@@ -11,6 +11,7 @@ googleAnalytics = ""
   # Style options: default (pink), blue, green, pink, red, sea, violet
   # Use custom.css for your custom styling
   style = "pink"
+  ogpImage = "img/favicon.png"
   description = "同人誌の即売会等で二次元コンテンツと技術系を組み合わせた本を頒布している同人サークルです．"
   copyright = "&copy;2022 森の兄貴たち"
   sidebarAbout = [
@@ -60,6 +61,7 @@ googleAnalytics = ""
   # googleplus    = "full profile url in googleplus"
   email         = "mori.no.anikitachi@gmail.com"
   twitter       = "https://twitter.com/tnk_make"
+  twitterID     = "tnk_make"
   # linkedin      = "full profile url in linkedin"
   # stackoverflow = "full profile url in stackoverflow"
   # instagram     = "full profile url in instagram"

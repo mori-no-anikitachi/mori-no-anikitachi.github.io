@@ -5,6 +5,20 @@
     <div class="col-lg-12">
       <div class="content-column-content">
          <h1>{{ .Title }}</h1>
+         <p>{{ .Params.EventDescription }}</p>
+      </div>
+    </div>
+  </div>
+  <div class="row">
+    <div class="col-lg-1">
+    </div>
+    <div class="col-lg-4">
+      <div class="book-img-shadow">
+        <img src="{{.Params.image | absURL}}" alt="" class="img-responsive">
+      </div>
+    </div>
+    <div class="col-lg-6">
+      <div class="content-column-content">
          {{ .Content }}
          {{ template "_internal/disqus.html" . }}
       </div>

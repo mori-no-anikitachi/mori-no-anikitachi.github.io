@@ -57,7 +57,7 @@ googleAnalytics = ""
   [params.social]
   # facebook      = "full page or profile url in facebook"
   # googleplus    = "full profile url in googleplus"
-  email         = "mori.no.anikitachi@example.com"
+  email         = "mori.no.anikitachi@gmail.com"
   twitter       = "https://twitter.com/tnk_make"
   # linkedin      = "full profile url in linkedin"
   # stackoverflow = "full profile url in stackoverflow"
@@ -66,3 +66,8 @@ googleAnalytics = ""
   # gitlab        = "full profile url in gitlab"
   # youtube       = "full profile url in youtube"
   # whatsapp      = "wa.me service link"
+
+[markup]
+  [markup.goldmark]
+    [markup.goldmark.renderer]
+      unsafe = true

@@ -826,6 +826,10 @@ a:active {
   margin-right: -15px;
   margin-left: -15px;
 }
+.book-img-shadow{
+  background: #fff;
+  box-shadow: 0 0 5px #999;
+}
 .box-masonry {
   background: #fff;
   margin-bottom: 30px;

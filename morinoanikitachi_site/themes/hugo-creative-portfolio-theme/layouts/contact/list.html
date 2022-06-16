@@ -8,7 +8,7 @@
          {{ .Content }}
          <h4>You can find me also on:</h4>
          {{ partial "social_buttons_in_contact.html" . }}
-         {{ with .Site.Params.email }}
+         {{ with .Site.Params.formspreeID }}
          <h4>Drop me a line, maybe?</h4>
          <form id="contact-form" class="contact-form form" method="post" action="https://formspree.io/{{ . }}">
            <div class="controls">

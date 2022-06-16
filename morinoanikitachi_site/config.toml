@@ -30,6 +30,7 @@ googleAnalytics = ""
      # - click the confirm link in the email from www.formspree.io
      # - you're done. Happy mailing!
   email = "mori.no.anikitachi@gmail.com"
+  formspreeID = "xknyeakr"
 
     # Optional Matomo analytics (formerly piwik)
       # [params.analytics.matomo]

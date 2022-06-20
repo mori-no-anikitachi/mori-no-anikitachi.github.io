@@ -82,3 +82,10 @@
 {{ end }}
 <meta property="twitter:creator"    content="{{site.Params.social.twitterID}}" />
 <meta property="twitter:site"       content="{{site.Params.social.twitterID}}" />
+
+<!-- SEO対策 -->
+{{ $seoKeyword :=  .Site.Params.seo.CommonKeywords  }}
+{{ if .Params.EventName }}
+  {{  $seoKeyword =(print $seoKeyword (index .Site.Params.seo.EventKeywords .Params.EventName))}}
+{{ end }}
+<meta name="keyword"  content="{{$seoKeyword}}">

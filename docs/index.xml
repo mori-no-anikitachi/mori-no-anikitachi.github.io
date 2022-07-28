@@ -6,14 +6,32 @@
     <description>Recent content on 森の兄貴たち</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>ja-jp</language>
-    <lastBuildDate>Sun, 06 Nov 2016 13:00:25 +0530</lastBuildDate><atom:link href="https://mori-no-anikitachi.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Tue, 05 Jul 2022 18:25:22 +0530</lastBuildDate><atom:link href="https://mori-no-anikitachi.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>佐久間まゆがRでデータ解析する本</title>
+      <link>https://mori-no-anikitachi.github.io/home/c100/</link>
+      <pubDate>Tue, 05 Jul 2022 18:25:22 +0530</pubDate>
+      
+      <guid>https://mori-no-anikitachi.github.io/home/c100/</guid>
+      <description>内容 アイドルマスターシンデレラガールズ に登場するキャラ佐久間まゆと一緒にデータ解析をしましょう！
+まえがき/はじめに 第1章「プロデューサを解析したい」
+第2章「佐久間まゆ、はじめてのR」
+第3章「最小二乗法で直線を引こう」
+第4章「相関係数でデータを厳選しよう」
+第5章「エピローグ」
+付録A「作成したプログラム一覧」
+あとがき/さいごに
+ソースコード CSVファイルはこちら
+ソースコード(.ipynb)はこちら</description>
+    </item>
+    
     <item>
       <title>アンデスにUnity触らせる本</title>
       <link>https://mori-no-anikitachi.github.io/home/c99/</link>
       <pubDate>Sat, 05 Nov 2016 18:25:22 +0530</pubDate>
       
       <guid>https://mori-no-anikitachi.github.io/home/c99/</guid>
-      <description>アイドルマスターシンデレラガールズ に登場するユニットアンダーザデスク(通称アンデス)と一緒にゲームを作りましょう！
+      <description>内容 アイドルマスターシンデレラガールズ に登場するユニットアンダーザデスク(通称アンデス)と一緒にゲームを作りましょう！
 まえがき/はじめに 第1章「アンデス、Unityに出会う」
 第2章「どうやって役割分担しよう」
 第3章「Pと一緒にステージを作ろう」

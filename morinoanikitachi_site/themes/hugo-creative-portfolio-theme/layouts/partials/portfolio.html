@@ -6,7 +6,7 @@
           {{ range .Data.Pages }}
             {{ if eq .Params.isBook true }}
               <div class="col-xs-12 col-sm-6 col-md-4 col-lg-3 masonry-item">
-                  <h4 style="margin-top:0px"> <a href="{{ .Permalink }}" style="color:#000000">{{ .Params.EventName }}</a> </h4>
+                  <h4 style="margin-top:0px"> <a href="{{ .Permalink }}" style="color:#000000" >{{ .Params.EventName }}</a> </h4>
                   <div class="box-masonry">
                       {{ if and (isset .Params "image") .Params.image }}
                         {{ if eq .Params.showonlyimage true }}

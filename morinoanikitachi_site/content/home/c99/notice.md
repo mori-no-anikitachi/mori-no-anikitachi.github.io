@@ -2,7 +2,7 @@
 showonlyimage = true
 draft = false
 image = "img/C99/notice/oshinagaki.jpg"
-ogpImage = "img/C100/c100_ogp.jpg"
+ogpImage = "img/C99/notice/oshinagaki.jpg"
 date = "2021-12-30T18:25:22+05:30"
 title = "C99 2日目東ト39aで新刊頒布します！"
 IsSummaryLargeImage = true

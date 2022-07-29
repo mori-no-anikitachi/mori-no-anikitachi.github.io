@@ -4,8 +4,13 @@
   <div class="row">
     <div class="col-lg-12">
       <div class="content-column-content">
-         <h1>{{ .Title }}</h1>
-         <p>{{ .Params.EventDescription }}</p>
+        {{ if eq .Params.isBook false }}
+          <h4>{{ .Params.date | time.Format "2006-01-02" }}</h4>
+        {{ end }}
+        <h1>{{ .Title }}</h1>
+        {{ if eq .Params.isBook true }}
+          <p>{{ .Params.EventDescription }}</p>
+        {{ end }}
       </div>
     </div>
   </div>

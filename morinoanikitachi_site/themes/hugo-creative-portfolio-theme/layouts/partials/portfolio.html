@@ -3,7 +3,7 @@
     <h1  style="margin-bottom:5px"> Books </h1>
     <div class="grid">
         <div class="row">
-          {{ range .Data.Pages }}
+          {{ range where .Site.Pages "Params.isMenu" false }}
             {{ if eq .Params.isBook true }}
               <div class="col-xs-12 col-sm-6 col-md-4 col-lg-3 masonry-item">
                   <h4 style="margin-top:0px"> <a href="{{ .Permalink }}" style="color:#000000" >{{ .Params.EventName }}</a> </h4>
@@ -47,7 +47,7 @@
     <h1 style="margin-bottom:5px"> News </h1>
     <div class="grid">
       <div class="row">
-        {{ range .Data.Pages }}
+        {{ range where .Site.Pages "Params.isMenu" false }}
           {{ if eq .Params.isBook false }}
             <div class="col-xs-12 col-sm-6 col-md-4 col-lg-3 masonry-item">
               <a href="{{ .Permalink }}" style="color:#000000">{{ .Params.date | time.Format "2006-01-02" }}<br>{{ .Params.title }}</a>

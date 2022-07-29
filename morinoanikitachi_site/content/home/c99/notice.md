@@ -10,6 +10,7 @@ EventName = "C100"
 Description = "C99の2日目東ト39aで新刊「アンデスにUnity触らせる本」を¥700で頒布いたします！"
 weight = 1
 isBook = false
+isMenu = false
 +++
 #### C99完売いたしました
 (2021/12/31 追記)

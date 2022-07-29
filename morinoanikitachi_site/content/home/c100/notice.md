@@ -10,6 +10,7 @@ EventName = "C100"
 Description = "C100の1日目西せ14bで新刊「佐久間まゆとRでデータ解析する本」を¥700で頒布いたします！"
 weight = 1
 isBook = false
+isMenu = false
 +++
 
 #### 日時・サークル情報

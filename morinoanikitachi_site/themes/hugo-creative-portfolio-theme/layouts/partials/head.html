@@ -41,6 +41,7 @@
 {{ $imgcnf := imageConfig $staticImage }}
 {{ $og_img_resource := resources.Get (string $og_img) }}
 <!-- -- A-2. 設定コード生成  -- -->
+<meta property="twitter:url"            content="{{ .Permalink }}">
 <meta property="og:image"               content="{{ $og_img | absURL}}">
 <meta property="twitter:image"          content="{{ $og_img | absURL}}">
 <meta property="og:image:alt"           content="{{ $og_img | absURL}}">

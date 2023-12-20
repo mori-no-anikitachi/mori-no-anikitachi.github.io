@@ -6,35 +6,21 @@
     <description>Recent content in C100s on 森の兄貴たち</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>ja-jp</language>
-    <lastBuildDate>Fri, 29 Jul 2022 18:25:22 +0530</lastBuildDate><atom:link href="https://mori-no-anikitachi.github.io/c100/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Fri, 29 Jul 2022 18:25:22 +0530</lastBuildDate>
+    <atom:link href="https://mori-no-anikitachi.github.io/c100/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>C100 1日目西せ14bで新刊頒布します！</title>
       <link>https://mori-no-anikitachi.github.io/c100/notice/</link>
       <pubDate>Fri, 29 Jul 2022 18:25:22 +0530</pubDate>
-      
       <guid>https://mori-no-anikitachi.github.io/c100/notice/</guid>
-      <description>日時・サークル情報 C100 1日目 2022/08/13(土) 西せ14b「森の兄貴たち」
-頒布情報 新刊「佐久間まゆとRでデータ解析する本」 C100限定：¥700
-既刊「アンデスにUnity触らせる本」 ¥1,000</description>
+      <description>日時・サークル情報 C100 1日目 2022/08/13(土) 西せ14b「森の兄貴たち」&#xA;頒布情報 新刊「佐久間まゆとRでデータ解析する本」 C100限定：¥700&#xA;既刊「アンデスにUnity触らせる本」 ¥1,000</description>
     </item>
-    
     <item>
       <title>佐久間まゆとRでデータ解析する本</title>
       <link>https://mori-no-anikitachi.github.io/c100/main/</link>
       <pubDate>Tue, 05 Jul 2022 18:25:22 +0530</pubDate>
-      
       <guid>https://mori-no-anikitachi.github.io/c100/main/</guid>
-      <description>内容 アイドルマスターシンデレラガールズ に登場するキャラ佐久間まゆと一緒にデータ解析をしましょう！
-まえがき/はじめに 第1章「プロデューサを解析したい」
-第2章「佐久間まゆ、はじめてのR」
-第3章「最小二乗法で直線を引こう」
-第4章「相関係数でデータを厳選しよう」
-第5章「エピローグ」
-付録A「作成したプログラム一覧」
-あとがき/さいごに
-ソースコード CSVファイルはこちら
-ソースコード(.ipynb)はこちら</description>
+      <description>内容 アイドルマスターシンデレラガールズ に登場するキャラ佐久間まゆと一緒にデータ解析をしましょう！&#xA;まえがき/はじめに 第1章「プロデューサを解析したい」&#xA;第2章「佐久間まゆ、はじめてのR」&#xA;第3章「最小二乗法で直線を引こう」&#xA;第4章「相関係数でデータを厳選しよう」&#xA;第5章「エピローグ」&#xA;付録A「作成したプログラム一覧」&#xA;あとがき/さいごに&#xA;ソースコード CSVファイルはこちら&#xA;ソースコード(.ipynb)はこちら</description>
     </item>
-    
   </channel>
 </rss>

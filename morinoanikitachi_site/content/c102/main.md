@@ -3,10 +3,10 @@ showonlyimage = true
 draft = false
 image = "img/C102/c102_top.jpg"
 ogpImage = "img/C102/c102_ogp.jpg"
-date = "2022-12-13T18:25:22+05:30"
+date = "2023-08-13T18:25:22+05:30"
 title = "佐久間まゆとはじめる無線マイコン(ESP-WROOM-32)"
 IsSummaryLargeImage = true
-EventDescription = "初版：C102(2023/08/13)"
+EventDescription = "初版：C102(2023/08/13)\n第二版：C103(2023/12/31)"
 EventName = "C102"
 Description = "佐久間まゆちゃんと一緒にESP32に触れましょう"
 weight = 1
@@ -14,7 +14,7 @@ isBook = true
 isMenu = false
 +++
 #### 内容
-`アイドルマスターシンデレラガールズ` に登場するキャラ`佐久間まゆ`と一緒にESp32を使った電信工作をしましょう！
+`アイドルマスターシンデレラガールズ` に登場するキャラ`佐久間まゆ`と一緒にESP32を使った電信工作をしましょう！
 > まえがき/はじめに <br>
 > 第1章「Pさんの部屋に無線のセンサーを！」<br>
 > 第2章「開発道具を整えよう」<br>

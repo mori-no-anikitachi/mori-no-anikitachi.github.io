@@ -826,6 +826,9 @@ a:active {
   margin-right: -15px;
   margin-left: -15px;
 }
+.masonry-item{
+  float: left !important; /* アイテムを左寄せに設定 */
+}
 .book-img-shadow{
   background: #fff;
   box-shadow: 0 0 5px #999;

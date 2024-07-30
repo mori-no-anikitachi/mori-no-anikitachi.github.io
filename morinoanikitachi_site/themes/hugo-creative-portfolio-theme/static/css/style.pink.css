@@ -403,6 +403,13 @@ SIDEBAR + RIGHT COLUMN
     padding-right: 40px;
   }
 }
+@media (max-width: 600px) {
+  .content-column-content {
+    padding-left: 0px;
+    padding-right: 0px;
+    padding-bottom: 10px;
+  }
+}
 .content-column-content p.lead {
   color: #555555;
 }
@@ -1964,6 +1971,12 @@ h1,
 .h1 {
   font-size: 48px;
 }
+@media screen and (max-width: 600px) {
+  h1,.h1 {
+    font-size: 24px;
+  }
+}
+
 h2,
 .h2 {
   font-size: 38px;
@@ -1997,8 +2010,24 @@ h3,
   margin-top: 0;
   margin-bottom: 24px;
 }
+@media screen and (max-width: 600px) {
+  h1,
+  .h1,
+  h2,
+  .h2,
+  h3,
+  .h3 {
+    margin-top: 0;
+    margin-bottom: 10px;
+  }
+}
 p {
   margin: 0 0 24px;
+}
+@media screen and (max-width: 600px) {
+  p {
+    margin: 0 0 0px;
+  }
 }
 .lead {
   margin-bottom: 24px;

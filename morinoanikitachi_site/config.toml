@@ -70,10 +70,13 @@ googleAnalytics = ""
   # whatsapp      = "wa.me service link"
 
   [params.seo]
-    CommonKeywords ="同人,同人誌,二次創作,同人サークル,頒布,技術,技術本,技術系,技術系サークル,アイドルマスター,シンデレラガールズ,アイドルマスターシンデレラガールズ,IdolM@ster,IdolMaster,デレマス,デレステ,コミケ,コミックマーケット,Comic market"
+    CommonKeywords ="コミケ,同人,同人誌,二次創作,同人サークル,頒布,技術,技術本,技術系,技術系サークル,アイドルマスター,シンデレラガールズ,アイドルマスターシンデレラガールズ,IdolM@ster,IdolMaster,デレマス,デレステ,アイマスコミケ,コミックマーケット,Comic market"
     [params.seo.EventKeywords]
-      C99 = "C99,アンデス,アンダーザデスク,Under the Desk,佐久間まゆ,Sakuma Mayu,Mayu Sakuma,星輝子,Hoshi Shoko,Shoko Hoshi,森久保乃々,Morikubo Nono,Nono Morikubo,C99,Unity,C#"
-      C100 =  "C100,R言語,R,データ解析"
+      C103 =  "C103,大槻唯,Yui Ohtsuki,佐々木千枝, Chie Sasaki,Fusion360,Autodesk,3D CAD"
+      C102 =  "C102,ESP32,佐久間まゆ,Sakuma Mayu,Mayu Sakuma,電子工作,無線,大石泉,Izumi Ohishi"
+      C101 =  "C101,園田智代子,Python,シャニマス,Chiyoko Sonoda"
+      C100 =  "C100,R言語,R,データ解析,佐久間まゆ,Sakuma Mayu,Mayu Sakuma,大石泉,Izumi Ohishi"
+      C99  =  "C99,アンデス,アンダーザデスク,Under the Desk,佐久間まゆ,Sakuma Mayu,Mayu Sakuma,星輝子,Hoshi Shoko,Shoko Hoshi,森久保乃々,Morikubo Nono,Nono Morikubo,C99,Unity,C#"
 [markup]
   [markup.goldmark]
     [markup.goldmark.renderer]

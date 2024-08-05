@@ -6,8 +6,15 @@
     <description>Recent content on 森の兄貴たち</description>
     <generator>Hugo</generator>
     <language>ja-jp</language>
-    <lastBuildDate>Mon, 29 Jul 2024 18:25:22 +0530</lastBuildDate>
+    <lastBuildDate>Fri, 02 Aug 2024 18:25:22 +0530</lastBuildDate>
     <atom:link href="https://mori-no-anikitachi.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>C104 2日目西せ06bで頒布します</title>
+      <link>https://mori-no-anikitachi.github.io/c104/notice/</link>
+      <pubDate>Fri, 02 Aug 2024 18:25:22 +0530</pubDate>
+      <guid>https://mori-no-anikitachi.github.io/c104/notice/</guid>
+      <description>日時・サークル情報 C104 2日目 2024/08/12(月) 西せ06b「森の兄貴たち」&#xA;頒布情報 新刊「森久保乃々とはじめるアセンブリ言語」 ¥700&#xA;既刊「佐々木千枝とFusion360する本」 ¥1,000&#xA;既刊「佐久間まゆとはじめる無線マイコン(ESP-WROOM-32)」 ¥1,200&#xA;既刊「園田智代子と学ぶフィルタ入門」 ¥1,000&#xA;既刊「佐久間まゆとRでデータ解析する本」 ¥1,000</description>
+    </item>
     <item>
       <title>森久保乃々とはじめるアセンブリ言語 RISC-V RV32I</title>
       <link>https://mori-no-anikitachi.github.io/c104/main/</link>
@@ -23,7 +30,7 @@
       <description>内容 アイドルマスターシンデレラガールズ に登場するキャラ佐々木千枝と一緒にFusion360を使った3DCADに挑戦しましょう！&#xA;まえがき/はじめに 第1章「3Dプリンタで裁縫箱を作りたい」&#xA;第2章「ツールを揃えよう」&#xA;第3章「蝶番を作ろう」&#xA;第4章「箱の下部を作ろう」&#xA;第5章「箱の上部を作ろう」&#xA;第6章「統合しよう」&#xA;第7章「履歴を活用しよう」&#xA;第8章「印刷に向けたモデルのエクスポート」&#xA;第9章「エピローグ」&#xA;付録A「登場した機能まとめ」 あとがき/さいごに&#xA;完成図 </description>
     </item>
     <item>
-      <title>C103 2日目東U19bで新刊頒布します！</title>
+      <title>C103 2日目東U19bで頒布します</title>
       <link>https://mori-no-anikitachi.github.io/c103/notice/</link>
       <pubDate>Mon, 18 Dec 2023 18:25:22 +0530</pubDate>
       <guid>https://mori-no-anikitachi.github.io/c103/notice/</guid>
@@ -37,14 +44,14 @@
       <description>内容 アイドルマスターシンデレラガールズ に登場するキャラ佐久間まゆと一緒にESP32を使った電信工作をしましょう！&#xA;まえがき/はじめに 第1章「Pさんの部屋に無線のセンサーを！」&#xA;第2章「開発道具を整えよう」&#xA;第3章「必要なアプリケーションをインストールしよう」&#xA;第4章「はじめてのプログラミング」&#xA;第5章「Lチカに挑戦！」&#xA;第6章「光センサ(CdSセル)を使ってみよう」&#xA;第7章「Wi-Fiのアレコレ」&#xA;第8章「UDP通信：受信編」&#xA;第9章「UDP通信：送信編」&#xA;第10章「光センサーの値を自動で監視しよう」&#xA;第11章「エピローグ」&#xA;あとがき/さいごに&#xA;プログラムは後日公開予定 </description>
     </item>
     <item>
-      <title>C102 2日目西か02bで新刊頒布します！</title>
+      <title>C102 2日目西か02bで頒布します</title>
       <link>https://mori-no-anikitachi.github.io/c102/notice/</link>
       <pubDate>Sat, 12 Aug 2023 18:25:22 +0530</pubDate>
       <guid>https://mori-no-anikitachi.github.io/c102/notice/</guid>
       <description>日時・サークル情報 C102 2日目 2023/08/13(日) 西し01a「森の兄貴たち」&#xA;頒布情報 新刊「佐久間まゆとはじめる無線マイコン(ESP-WROOM-32)」 ¥1,000&#xA;既刊「園田智代子と学ぶフィルタ入門」 ¥1,000&#xA;既刊「佐久間まゆとRでデータ解析する本」 ¥1,000&#xA;既刊「アンデスにUnity触らせる本」 ¥1,200</description>
     </item>
     <item>
-      <title>C101 2日目西し01aで新刊頒布します！</title>
+      <title>C101 2日目西し01aで頒布します</title>
       <link>https://mori-no-anikitachi.github.io/c101/notice/</link>
       <pubDate>Wed, 14 Dec 2022 18:25:22 +0530</pubDate>
       <guid>https://mori-no-anikitachi.github.io/c101/notice/</guid>
@@ -58,7 +65,7 @@
       <description>内容 アイドルマスターシャイニーカラーズ に登場するキャラ園田智代子と一緒にフィルタ処理を学びましょう！&#xA;まえがき/はじめに 第1章「体重計がおかしい！」&#xA;第2章「エラーバーで体重計を厳選しよう」&#xA;第3章「簡単な傾向予測をしよう」&#xA;第4章「推定値を求めよう」&#xA;第5章「g-h フィルタを学ぼう」&#xA;第6章「エピローグ」&#xA;あとがき/さいごに</description>
     </item>
     <item>
-      <title>C100 1日目西せ14bで新刊頒布します！</title>
+      <title>C100 1日目西せ14bで頒布します</title>
       <link>https://mori-no-anikitachi.github.io/c100/notice/</link>
       <pubDate>Fri, 29 Jul 2022 18:25:22 +0530</pubDate>
       <guid>https://mori-no-anikitachi.github.io/c100/notice/</guid>
@@ -72,7 +79,7 @@
       <description>内容 アイドルマスターシンデレラガールズ に登場するキャラ佐久間まゆと一緒にデータ解析をしましょう！&#xA;まえがき/はじめに 第1章「プロデューサを解析したい」&#xA;第2章「佐久間まゆ、はじめてのR」&#xA;第3章「最小二乗法で直線を引こう」&#xA;第4章「相関係数でデータを厳選しよう」&#xA;第5章「エピローグ」&#xA;付録A「作成したプログラム一覧」&#xA;あとがき/さいごに&#xA;ソースコード CSVファイルはこちら&#xA;ソースコード(.ipynb)はこちら</description>
     </item>
     <item>
-      <title>C99 2日目東ト39aで新刊頒布します！</title>
+      <title>C99 2日目東ト39aで頒布します</title>
       <link>https://mori-no-anikitachi.github.io/c99/notice/</link>
       <pubDate>Tue, 28 Dec 2021 18:25:22 +0530</pubDate>
       <guid>https://mori-no-anikitachi.github.io/c99/notice/</guid>

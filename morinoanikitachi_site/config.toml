@@ -6,6 +6,7 @@ languageCode = 'ja-jp'
 disqusShortname = ""
 # Enable Google Analytics by entering your tracking code
 googleAnalytics = ""
+disableKinds = ['taxonomy', 'term']
 
 [params]
   # Style options: default (pink), blue, green, pink, red, sea, violet

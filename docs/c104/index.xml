@@ -6,8 +6,15 @@
     <description>Recent content in C104s on 森の兄貴たち</description>
     <generator>Hugo</generator>
     <language>ja-jp</language>
-    <lastBuildDate>Mon, 29 Jul 2024 18:25:22 +0530</lastBuildDate>
+    <lastBuildDate>Fri, 02 Aug 2024 18:25:22 +0530</lastBuildDate>
     <atom:link href="https://mori-no-anikitachi.github.io/c104/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>C104 2日目西せ06bで頒布します</title>
+      <link>https://mori-no-anikitachi.github.io/c104/notice/</link>
+      <pubDate>Fri, 02 Aug 2024 18:25:22 +0530</pubDate>
+      <guid>https://mori-no-anikitachi.github.io/c104/notice/</guid>
+      <description>日時・サークル情報 C104 2日目 2024/08/12(月) 西せ06b「森の兄貴たち」&#xA;頒布情報 新刊「森久保乃々とはじめるアセンブリ言語」 ¥700&#xA;既刊「佐々木千枝とFusion360する本」 ¥1,000&#xA;既刊「佐久間まゆとはじめる無線マイコン(ESP-WROOM-32)」 ¥1,200&#xA;既刊「園田智代子と学ぶフィルタ入門」 ¥1,000&#xA;既刊「佐久間まゆとRでデータ解析する本」 ¥1,000</description>
+    </item>
     <item>
       <title>森久保乃々とはじめるアセンブリ言語 RISC-V RV32I</title>
       <link>https://mori-no-anikitachi.github.io/c104/main/</link>

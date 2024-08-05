@@ -2,24 +2,24 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>C99s on 森の兄貴たち</title>
-    <link>http://localhost:1313/c99/</link>
+    <link>https://mori-no-anikitachi.github.io/c99/</link>
     <description>Recent content in C99s on 森の兄貴たち</description>
     <generator>Hugo</generator>
     <language>ja-jp</language>
     <lastBuildDate>Tue, 28 Dec 2021 18:25:22 +0530</lastBuildDate>
-    <atom:link href="http://localhost:1313/c99/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://mori-no-anikitachi.github.io/c99/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>C99 2日目東ト39aで頒布します</title>
-      <link>http://localhost:1313/c99/notice/</link>
+      <link>https://mori-no-anikitachi.github.io/c99/notice/</link>
       <pubDate>Tue, 28 Dec 2021 18:25:22 +0530</pubDate>
-      <guid>http://localhost:1313/c99/notice/</guid>
+      <guid>https://mori-no-anikitachi.github.io/c99/notice/</guid>
       <description>C99完売いたしました (2021/12/31 追記)&#xA;会場で無事に完売いたしました。 皆さまありがとうございました。&#xA;なお今後も既刊として販売いたします。&#xA;日時・サークル情報 C99 2日目 2021/12/31(金) 東ト39a「森の兄貴たち」&#xA;頒布情報 新刊「アンデスにUnity触らせる本」 C99限定：¥700</description>
     </item>
     <item>
       <title>アンデスにUnity触らせる本</title>
-      <link>http://localhost:1313/c99/main/</link>
+      <link>https://mori-no-anikitachi.github.io/c99/main/</link>
       <pubDate>Fri, 24 Dec 2021 18:25:22 +0530</pubDate>
-      <guid>http://localhost:1313/c99/main/</guid>
+      <guid>https://mori-no-anikitachi.github.io/c99/main/</guid>
       <description>内容 アイドルマスターシンデレラガールズ に登場するユニットアンダーザデスク(通称アンデス)と一緒にゲームを作りましょう！&#xA;まえがき/はじめに 第1章「アンデス、Unityに出会う」&#xA;第2章「どうやって役割分担しよう」&#xA;第3章「Pと一緒にステージを作ろう」&#xA;第4章「初めてのプログラミング」&#xA;第5章「まゆと一緒にボールを動かしましょう🤍」&#xA;第6章「地獄に落ちてもリスタートだァ！！！」&#xA;第7章「当たったら消えますけど&amp;hellip;」&#xA;第8章「アンデス、初のゲーム完成！」&#xA;第9章「当たったら消えますけど&amp;hellip;」&#xA;付録A「作成したプログラム一覧」&#xA;あとがき/さいごに</description>
     </item>
   </channel>

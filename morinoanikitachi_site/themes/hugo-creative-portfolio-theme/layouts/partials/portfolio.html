@@ -3,37 +3,37 @@
 <h1  style="margin-bottom:5px"> Books </h1>
 <div class="">
     <div class="row justify-content-start">
-      {{ range where .Site.Pages "Params.isMenu" false }}
-        {{ if eq .Params.isBook true }}
-          <div class="col-xs-6 col-sm-6 col-md-4 col-lg-3">
-              <h4 style="margin-top:0px"> <a href="{{ .Permalink }}" style="color:#000000" >{{ .Params.EventName }}</a> </h4>
+      {{ range $index, $element := where .Site.Pages ".Params.isMenu" false }}
+        {{ if eq $element.Params.isBook true }}
+          <div class="col-xs-6 col-sm-6 col-md-4 col-lg-3 fadeIn" style="animation-delay:{{ print (add 0.3 (mul 0.07 $index)) }}{{ print "s" }};">
+              <h4 style="margin-top:0px"> <a href="{{ $element.Permalink }}" style="color:#000000" >{{ $element.Params.EventName }}</a> </h4>
               <div class="box-masonry">
-                  {{ if and (isset .Params "image") .Params.image }}
-                    {{ if eq .Params.showonlyimage true }}
-                    <a href="{{ .Permalink }}" title="" class="box-masonry-image with-hover-overlay">
+                  {{ if and (isset $element.Params "image") $element.Params.image }}
+                    {{ if eq $element.Params.showonlyimage true }}
+                    <a href="{{ $element.Permalink }}" title="" class="box-masonry-image with-hover-overlay">
                     {{ else }}
-                    <a href="{{ .Permalink }}" title="" class="box-masonry-image with-hover-overlay with-hover-icon">
+                    <a href="{{ $element.Permalink }}" title="" class="box-masonry-image with-hover-overlay with-hover-icon">
                     {{ end }}
-                        <img src="{{.Params.image | absURL}}" alt="" class="img-responsive">
+                        <img src="{{$element.Params.image | absURL}}" alt="" class="img-responsive">
                     </a>
                   {{ end }}
-                  {{ if eq .Params.showonlyimage true }}
+                  {{ if eq $element.Params.showonlyimage true }}
                   <div class="box-masonry-hover-text-header">
                   {{ else }}
                   <div class="box-masonry-text">
                   {{ end }}
-                      <h4><a href="{{ .Permalink }}">{{ .Title }}</a></h4>
+                      <h4><a href="{{ $element.Permalink }}">{{ $element.Title }}</a></h4>
                       <div class="box-masonry-description">
                         <p>
-                          {{ if .Params.EventDescription }}
-                            {{ .Params.EventDescription }}
+                          {{ if $element.Params.EventDescription }}
+                            {{ $element.Params.EventDescription }}
                             <br>
                             <br>
                           {{end}}
-                          {{ if .Params.Description }}
-                            {{ .Params.Description }}
+                          {{ if $element.Params.Description }}
+                            {{ $element.Params.Description }}
                           {{ else }}
-                            {{ .Summary }}
+                            {{ $element.Summary }}
                           {{ end }}
                         </p>
                       </div>
@@ -46,18 +46,18 @@
   </div>
   <h1 style="margin-bottom:5px"> News </h1>
   <div class="row">
-    {{ range where .Site.Pages "Params.isMenu" false }}
-      {{ if eq .Params.isBook false }}
-        <div class="col-xs-12 col-sm-6 col-md-4 col-lg-3 masonry-item">
-          <a href="{{ .Permalink }}" style="color:#000000">{{ .Params.date | time.Format "2006-01-02" }}<br>{{ .Params.title }}</a>
+    {{ range $index, $element := where .Site.Pages ".Params.isMenu" false }}
+      {{ if eq $element.Params.isBook false }}
+        <div class="col-xs-6 col-sm-6 col-md-3 col-lg-3 masonry-item fadeIn" style="animation-delay:{{ print (add 1.2 (mul 0.07 $index)) }}{{ print "s" }};">
+          <a href="{{ $element.Permalink }}" style="color:#000000">{{ $element.Params.date | time.Format "2006-01-02" }}<br>{{ $element.Params.title }}</a>
             <div class="box-masonry">
-                {{ if and (isset .Params "image") .Params.image }}
-                  {{ if eq .Params.showonlyimage true }}
-                  <a href="{{ .Permalink }}" title="" class="box-masonry-image with-hover-overlay">
+                {{ if and (isset $element.Params "image") $element.Params.image }}
+                  {{ if eq $element.Params.showonlyimage true }}
+                  <a href="{{ $element.Permalink }}" title="" class="box-masonry-image with-hover-overlay">
                   {{ else }}
-                  <a href="{{ .Permalink }}" title="" class="box-masonry-image with-hover-overlay with-hover-icon">
+                  <a href="{{ $element.Permalink }}" title="" class="box-masonry-image with-hover-overlay with-hover-icon">
                   {{ end }}
-                      <img src="{{.Params.image | absURL}}" alt="" class="img-responsive">
+                      <img src="{{$element.Params.image | absURL}}" alt="" class="img-responsive">
                   </a>
                 {{ end }}
                 {{ if eq .Params.showonlyimage true }}
@@ -65,18 +65,18 @@
                 {{ else }}
                 <div class="box-masonry-text">
                 {{ end }}
-                    <h4><a href="{{ .Permalink }}">{{ .Title }}</a></h4>
+                    <h4><a href="{{ $element.Permalink }}">{{ .Title }}</a></h4>
                     <div class="box-masonry-description">
                       <p>
-                        {{ if .Params.EventDescription }}
-                          {{ .Params.EventDescription }}
+                        {{ if $element.Params.EventDescription }}
+                          {{ $element.Params.EventDescription }}
                           <br>
                           <br>
                         {{end}}
-                        {{ if .Params.Description }}
-                          {{ .Params.Description }}
+                        {{ if $element.Params.Description }}
+                          {{ $element.Params.Description }}
                         {{ else }}
-                          {{ .Summary }}
+                          {{ $element.Summary }}
                         {{ end }}
                       </p>
                     </div>

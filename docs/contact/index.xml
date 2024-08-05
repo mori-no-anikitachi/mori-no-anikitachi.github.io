@@ -2,11 +2,11 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Get in touch on 森の兄貴たち</title>
-    <link>https://mori-no-anikitachi.github.io/contact/</link>
+    <link>http://localhost:1313/contact/</link>
     <description>Recent content in Get in touch on 森の兄貴たち</description>
     <generator>Hugo</generator>
     <language>ja-jp</language>
     <lastBuildDate></lastBuildDate>
-    <atom:link href="https://mori-no-anikitachi.github.io/contact/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:1313/contact/index.xml" rel="self" type="application/rss+xml" />
   </channel>
 </rss>

@@ -44,7 +44,7 @@
       {{ end }}
     </div>
   </div>
-  <h1 style="margin-bottom:5px"> News </h1>
+  <h1 class="fadeIn" style="animation-delay:1.2s; margin-bottom:5px;"> News </h1>
   <div class="row">
     {{ range $index, $element := where .Site.Pages ".Params.isMenu" false }}
       {{ if eq $element.Params.isBook false }}

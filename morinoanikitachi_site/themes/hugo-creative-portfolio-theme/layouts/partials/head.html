@@ -80,11 +80,12 @@
 {{end}}
 
 <!-- 一応summary_large_imageも -->
-{{ if eq true .Params.IsSummaryLargeImage }}
+{{/*  {{ if eq true .Params.IsSummaryLargeImage }}
 <meta property="twitter:card" content="summary_large_image">
 {{ else }}
 <meta property="twitter:card" content="summary">
-{{ end }}
+{{ end }}  */}}
+<meta property="twitter:card" content="summary_large_image">
 <meta property="twitter:creator"    content="@{{site.Params.social.twitterID}}">
 <meta property="twitter:site"       content="@{{site.Params.social.twitterID}}">
 

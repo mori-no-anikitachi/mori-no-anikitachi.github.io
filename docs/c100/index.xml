@@ -13,14 +13,14 @@
       <link>https://mori-no-anikitachi.github.io/c100/notice/</link>
       <pubDate>Fri, 29 Jul 2022 18:25:22 +0530</pubDate>
       <guid>https://mori-no-anikitachi.github.io/c100/notice/</guid>
-      <description>日時・サークル情報 C100 1日目 2022/08/13(土) 西せ14b「森の兄貴たち」&#xA;頒布情報 新刊「佐久間まゆとRでデータ解析する本」 C100限定：¥700&#xA;既刊「アンデスにUnity触らせる本」 ¥1,000</description>
+      <description>&lt;h4 id=&#34;日時サークル情報&#34;&gt;日時・サークル情報&lt;/h4&gt;&#xA;&lt;blockquote&gt;&#xA;&lt;p&gt;C100 1日目 2022/08/13(土) &lt;br&gt;&#xA;西せ14b「森の兄貴たち」&lt;/p&gt;&#xA;&lt;/blockquote&gt;&#xA;&lt;h4 id=&#34;頒布情報&#34;&gt;頒布情報&lt;/h4&gt;&#xA;&lt;blockquote&gt;&#xA;&lt;p&gt;新刊「&lt;a href=&#34;../main/&#34;&gt;佐久間まゆとRでデータ解析する本&lt;/a&gt;」 &lt;br&gt;&#xA;C100限定：¥700&lt;/p&gt;&#xA;&lt;p&gt;既刊「&lt;a href=&#34;../../c99/main/&#34;&gt;アンデスにUnity触らせる本&lt;/a&gt;」 &lt;br&gt;&#xA;¥1,000&lt;/p&gt;&#xA;&lt;/blockquote&gt;</description>
     </item>
     <item>
       <title>佐久間まゆとRでデータ解析する本</title>
       <link>https://mori-no-anikitachi.github.io/c100/main/</link>
       <pubDate>Tue, 05 Jul 2022 18:25:22 +0530</pubDate>
       <guid>https://mori-no-anikitachi.github.io/c100/main/</guid>
-      <description>内容 アイドルマスターシンデレラガールズ に登場するキャラ佐久間まゆと一緒にデータ解析をしましょう！&#xA;まえがき/はじめに 第1章「プロデューサを解析したい」&#xA;第2章「佐久間まゆ、はじめてのR」&#xA;第3章「最小二乗法で直線を引こう」&#xA;第4章「相関係数でデータを厳選しよう」&#xA;第5章「エピローグ」&#xA;付録A「作成したプログラム一覧」&#xA;あとがき/さいごに&#xA;ソースコード CSVファイルはこちら&#xA;ソースコード(.ipynb)はこちら</description>
+      <description>&lt;h4 id=&#34;内容&#34;&gt;内容&lt;/h4&gt;&#xA;&lt;p&gt;&lt;code&gt;アイドルマスターシンデレラガールズ&lt;/code&gt; に登場するキャラ&lt;code&gt;佐久間まゆ&lt;/code&gt;と一緒にデータ解析をしましょう！&lt;/p&gt;&#xA;&lt;blockquote&gt;&#xA;&lt;p&gt;まえがき/はじめに &lt;br&gt;&#xA;第1章「プロデューサを解析したい」&lt;br&gt;&#xA;第2章「佐久間まゆ、はじめてのR」&lt;br&gt;&#xA;第3章「最小二乗法で直線を引こう」&lt;br&gt;&#xA;第4章「相関係数でデータを厳選しよう」&lt;br&gt;&#xA;第5章「エピローグ」&lt;br&gt;&#xA;付録A「作成したプログラム一覧」&lt;br&gt;&#xA;あとがき/さいごに&lt;/p&gt;&#xA;&lt;/blockquote&gt;&#xA;&lt;h4 id=&#34;ソースコード&#34;&gt;ソースコード&lt;/h4&gt;&#xA;&lt;blockquote&gt;&#xA;&lt;p&gt;CSVファイルは&lt;a href=&#34;https://mori-no-anikitachi.github.io/event_source/c100/C100_Psan_dataset.csv&#34; download&gt;こちら&lt;/a&gt;&lt;br&gt;&#xA;ソースコード(.ipynb)は&lt;a href=&#34;https://mori-no-anikitachi.github.io/event_source/c100/C100_SourceCode.ipynb&#34; download&gt;こちら&lt;/a&gt;&lt;/p&gt;&#xA;&lt;/blockquote&gt;</description>
     </item>
   </channel>
 </rss>

@@ -13,14 +13,14 @@
       <link>https://mori-no-anikitachi.github.io/c104/notice/</link>
       <pubDate>Fri, 02 Aug 2024 18:25:22 +0530</pubDate>
       <guid>https://mori-no-anikitachi.github.io/c104/notice/</guid>
-      <description>日時・サークル情報 C104 2日目 2024/08/12(月) 西せ06b「森の兄貴たち」&#xA;頒布情報 新刊「森久保乃々とはじめるアセンブリ言語」 ¥700&#xA;既刊「佐々木千枝とFusion360する本」 ¥1,000&#xA;既刊「佐久間まゆとはじめる無線マイコン(ESP-WROOM-32)」 ¥1,200&#xA;既刊「園田智代子と学ぶフィルタ入門」 ¥1,000&#xA;既刊「佐久間まゆとRでデータ解析する本」 ¥1,000</description>
+      <description>&lt;h4 id=&#34;日時サークル情報&#34;&gt;日時・サークル情報&lt;/h4&gt;&#xA;&lt;blockquote&gt;&#xA;&lt;p&gt;C104 2日目 2024/08/12(月) &lt;br&gt;&#xA;西せ06b「森の兄貴たち」&lt;/p&gt;&#xA;&lt;/blockquote&gt;&#xA;&lt;h4 id=&#34;頒布情報&#34;&gt;頒布情報&lt;/h4&gt;&#xA;&lt;blockquote&gt;&#xA;&lt;p&gt;新刊「&lt;a href=&#34;../../c104/main&#34;&gt;森久保乃々とはじめるアセンブリ言語&lt;/a&gt;」 &lt;br&gt;&#xA;¥700&lt;/p&gt;&#xA;&lt;p&gt;既刊「&lt;a href=&#34;../../c103/main/&#34;&gt;佐々木千枝とFusion360する本&lt;/a&gt;」 &lt;br&gt;&#xA;¥1,000&lt;/p&gt;&#xA;&lt;p&gt;既刊「&lt;a href=&#34;../../c102/main/&#34;&gt;佐久間まゆとはじめる無線マイコン(ESP-WROOM-32)&lt;/a&gt;」 &lt;br&gt;&#xA;¥1,200&lt;/p&gt;&#xA;&lt;p&gt;既刊「&lt;a href=&#34;../../c101/main/&#34;&gt;園田智代子と学ぶフィルタ入門&lt;/a&gt;」 &lt;br&gt;&#xA;¥1,000&lt;/p&gt;&#xA;&lt;p&gt;既刊「&lt;a href=&#34;../../c100/main/&#34;&gt;佐久間まゆとRでデータ解析する本&lt;/a&gt;」 &lt;br&gt;&#xA;¥1,000&lt;/p&gt;&#xA;&lt;/blockquote&gt;</description>
     </item>
     <item>
       <title>森久保乃々とはじめるアセンブリ言語 RISC-V RV32I</title>
       <link>https://mori-no-anikitachi.github.io/c104/main/</link>
       <pubDate>Mon, 29 Jul 2024 18:25:22 +0530</pubDate>
       <guid>https://mori-no-anikitachi.github.io/c104/main/</guid>
-      <description>内容 アイドルマスターシンデレラガールズ に登場するキャラクター森久保乃々と一緒にRISC-V RV32Iを使ったアセンブリ言語に挑戦しましょう！&#xA;まえがき/はじめに 第1章「アセンブリ言語」&#xA;第2章「RISC-Vの命令セット「RV32I」」&#xA;第3章「RV32Iの命令」&#xA;第4章「2進数を学ぼう」&#xA;第5章「lui命令で大きな値を使う」&#xA;第6章「いろんな演算をしてみよう」&#xA;第7章「分岐命令にチャレンジ」&#xA;第8章「メモリを使ってみよう」&#xA;第9章「ジャンプ命令に挑戦」&#xA;第10章「応用:はじめての関数」&#xA;第11章「応用:はじめてのスタック」&#xA;第12章「エピローグ」&#xA;付録A「登場した命令一覧」&#xA;付録B「フィボナッチ数を求める関数」&#xA;あとがき/さいごに</description>
+      <description>&lt;h4 id=&#34;内容&#34;&gt;内容&lt;/h4&gt;&#xA;&lt;p&gt;&lt;code&gt;アイドルマスターシンデレラガールズ&lt;/code&gt; に登場するキャラクター&lt;code&gt;森久保乃々&lt;/code&gt;と一緒にRISC-V RV32Iを使ったアセンブリ言語に挑戦しましょう！&lt;/p&gt;&#xA;&lt;blockquote&gt;&#xA;&lt;p&gt;まえがき/はじめに &lt;br&gt;&#xA;第1章「アセンブリ言語」&lt;br&gt;&#xA;第2章「RISC-Vの命令セット「RV32I」」&lt;br&gt;&#xA;第3章「RV32Iの命令」&lt;br&gt;&#xA;第4章「2進数を学ぼう」&lt;br&gt;&#xA;第5章「lui命令で大きな値を使う」&lt;br&gt;&#xA;第6章「いろんな演算をしてみよう」&lt;br&gt;&#xA;第7章「分岐命令にチャレンジ」&lt;br&gt;&#xA;第8章「メモリを使ってみよう」&lt;br&gt;&#xA;第9章「ジャンプ命令に挑戦」&lt;br&gt;&#xA;第10章「応用:はじめての関数」&lt;br&gt;&#xA;第11章「応用:はじめてのスタック」&lt;br&gt;&#xA;第12章「エピローグ」&lt;br&gt;&#xA;付録A「登場した命令一覧」&lt;br&gt;&#xA;付録B「フィボナッチ数を求める関数」&lt;br&gt;&#xA;あとがき/さいごに&lt;/p&gt;&#xA;&lt;/blockquote&gt;</description>
     </item>
   </channel>
 </rss>

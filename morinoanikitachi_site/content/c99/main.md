@@ -2,7 +2,7 @@
 showonlyimage = true
 draft = false
 image = "img/C99/c99_top.jpg"
-ogpImage = "img/C99/c99_ogp.jpg"
+ogpImage = "img/C99/c99_og.jpg"
 date = "2021-12-24T18:25:22+05:30"
 title = "アンデスにUnity触らせる本"
 IsSummaryLargeImage = true

@@ -2,7 +2,7 @@
 showonlyimage = true
 draft = false
 image = "img/C100/c100_top.jpg"
-ogpImage = "img/C100/c100_ogp.jpg"
+ogpImage = "img/C100/c100_og.jpg"
 date = "2022-07-05T18:25:22+05:30"
 title = "佐久間まゆとRでデータ解析する本"
 IsSummaryLargeImage = true

@@ -2,7 +2,7 @@
 showonlyimage = true
 draft = false
 image = "img/C101/c101_top.jpg"
-ogpImage = "img/C101/c101_ogp.jpg"
+ogpImage = "img/C101/c101_og.jpg"
 date = "2022-12-13T18:25:22+05:30"
 title = "園田智代子と学ぶフィルタ入門"
 IsSummaryLargeImage = true

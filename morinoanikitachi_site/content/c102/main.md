@@ -2,7 +2,7 @@
 showonlyimage = true
 draft = false
 image = "img/C102/c102_top.jpg"
-ogpImage = "img/C102/c102_ogp.jpg"
+ogpImage = "img/C102/c102_og.jpg"
 date = "2023-08-13T18:25:22+05:30"
 title = "佐久間まゆとはじめる無線マイコン(ESP-WROOM-32)"
 IsSummaryLargeImage = true

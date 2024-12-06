@@ -2,7 +2,7 @@
 showonlyimage = true
 draft = false
 image = "img/C104/c104_top.jpg"
-ogpImage = "img/C104/c104_ogp.jpg"
+ogpImage = "img/C104/c104_og.jpg"
 date = "2024-07-29T18:25:22+05:30"
 title = "森久保乃々とはじめるアセンブリ言語 RISC-V RV32I"
 IsSummaryLargeImage = true

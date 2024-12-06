@@ -2,7 +2,7 @@
 showonlyimage = true
 draft = false
 image = "img/C103/c103_top.jpg"
-ogpImage = "img/C103/c103_ogp.jpg"
+ogpImage = "img/C103/c103_og.jpg"
 date = "2023-12-19T18:25:22+05:30"
 title = "佐々木千枝とFusion360する本"
 IsSummaryLargeImage = true

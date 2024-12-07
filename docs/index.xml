@@ -6,8 +6,15 @@
     <description>Recent content on 森の兄貴たち</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>ja-jp</language>
-    <lastBuildDate>Fri, 02 Aug 2024 18:25:22 +0530</lastBuildDate>
+    <lastBuildDate>Thu, 05 Dec 2024 18:25:22 +0530</lastBuildDate>
     <atom:link href="https://mori-no-anikitachi.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>篠澤広に教わる Android Studio</title>
+      <link>https://mori-no-anikitachi.github.io/c105/main/</link>
+      <pubDate>Thu, 05 Dec 2024 18:25:22 +0530</pubDate>
+      <guid>https://mori-no-anikitachi.github.io/c105/main/</guid>
+      <description>内容 学園アイドルマスターに登場する藤田ことねのプロデューサーは、スケジュール管理に方法に悩んでいた。 そこに現れた篠澤広がAndroid Studioでスケジュール管理アプリを作ろうと提案するのであった。&#xA;まえがき/はじめに 第1章「はじめよう、Android Studio」&#xA;第2章「レイアウトを編集してみよう」&#xA;第3章「ボタン処理を書いてみよう」&#xA;第4章「ジャンケンアプリの画面を作ろう」&#xA;第5章「ジャンケンアプリの処理を作ろう」&#xA;第6章「ジャンケンアプリの処理をまとめよう」&#xA;第7章「画面遷移の練習」&#xA;第8章「メモ帳の画面を作ろう」&#xA;第9章「メモ帳データベースのクラスを作ろう」&#xA;第10章「メモアプリの処理を作ろう」&#xA;第11章「日時を扱う」&#xA;第12章「スケジュールアプリ①」&#xA;第13章「スケジュールアプリ②」&#xA;第14章「エピローグ」&#xA;付録A「本書で登場した用語」&#xA;付録B「プログラム一覧」&#xA;あとがき/さいごに&#xA;公開予定 準備中</description>
+    </item>
     <item>
       <title>C104 2日目西せ06bで頒布します</title>
       <link>https://mori-no-anikitachi.github.io/c104/notice/</link>

@@ -71,8 +71,9 @@ disableKinds = ['taxonomy', 'term']
   # whatsapp      = "wa.me service link"
 
   [params.seo]
-    CommonKeywords ="アイマス,技術,コミケ,技術本,アイドルマスター,シンデレラガールズ,デレマス,デレステ,コミックマーケット,Comic market"
+    CommonKeywords ="アイマス,技術,コミケ,技術本,プログラミング,情報,アイドルマスター,学園アイドルマスター,シンデレラガールズ,デレマス,デレステ,コミックマーケット,Comic market"
     [params.seo.EventKeywords]
+      C105 =  "C105,Android,Android Studio,Java,アプリ開発,篠澤広,藤田ことね"
       C104 =  "C104,RISC-V,RV32,riscv,アセンブリ,アセンブラ,低レイヤ,森久保乃々"
       C103 =  "C103,大槻唯,佐々木千枝,Fusion360,Autodesk,3D CAD"
       C102 =  "C102,ESP32,佐久間まゆ,電子工作,Arduino,大石泉"

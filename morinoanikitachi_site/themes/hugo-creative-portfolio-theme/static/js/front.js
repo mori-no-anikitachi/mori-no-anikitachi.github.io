@@ -31,13 +31,13 @@ function carousels() {
  *  masonry
  *  =======================================*/
 function masonry() {
-    // var $grid = $('.grid').masonry({
-    //     itemSelector: ".masonry-item",
-    //     horizontalOrder: true
-    // });
-    // $grid.imagesLoaded().progress(function () {
-    //     $grid.masonry('layout');
-    // });
+    var $grid = $('.grid').masonry({
+        itemSelector: ".masonry-item",
+        horizontalOrder: true
+    });
+    $grid.imagesLoaded().progress(function () {
+        $grid.masonry('layout');
+    });
 }
 /* =========================================
  *  Off-canvas menu

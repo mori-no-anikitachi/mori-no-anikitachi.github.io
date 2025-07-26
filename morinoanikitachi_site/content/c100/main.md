@@ -29,5 +29,5 @@ isMenu = false
 > あとがき/さいごに
 
 #### ソースコード
-> CSVファイルは<a href="/event_source/c100/C100_Psan_dataset.csv" download>こちら</a>\
-> ソースコード(.ipynb)は<a href="/event_source/c100/C100_SourceCode.ipynb" download>こちら</a>
+> CSVファイルは<a href="https://github.com/mori-no-anikitachi/mori-no-anikitachi.github.io/releases/download/C100/C100_Psan_dataset.csv" download>こちら</a>\
+> ソースコード(.ipynb)は<a href="https://github.com/mori-no-anikitachi/mori-no-anikitachi.github.io/releases/download/C100/C100_SourceCode.ipynb" download>こちら</a>

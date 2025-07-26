@@ -4,7 +4,7 @@
     <title>C101s on 森の兄貴たち</title>
     <link>https://mori-no-anikitachi.github.io/c101/</link>
     <description>Recent content in C101s on 森の兄貴たち</description>
-    <generator>Hugo -- gohugo.io</generator>
+    <generator>Hugo</generator>
     <language>ja-jp</language>
     <lastBuildDate>Wed, 14 Dec 2022 18:25:22 +0530</lastBuildDate>
     <atom:link href="https://mori-no-anikitachi.github.io/c101/index.xml" rel="self" type="application/rss+xml" />
@@ -13,14 +13,14 @@
       <link>https://mori-no-anikitachi.github.io/c101/notice/</link>
       <pubDate>Wed, 14 Dec 2022 18:25:22 +0530</pubDate>
       <guid>https://mori-no-anikitachi.github.io/c101/notice/</guid>
-      <description>日時・サークル情報 C101 2日目 2022/12/31(土) 西し01a「森の兄貴たち」&#xA;頒布情報 新刊「園田智代子と学ぶフィルタ入門」 ¥700&#xA;既刊「佐久間まゆとRでデータ解析する本」 ¥1,000&#xA;既刊「アンデスにUnity触らせる本」 ¥1,000</description>
+      <description>&lt;h4 id=&#34;日時サークル情報&#34;&gt;日時・サークル情報&lt;/h4&gt;&#xA;&lt;blockquote&gt;&#xA;&lt;p&gt;C101 2日目 2022/12/31(土) &lt;br&gt;&#xA;西し01a「森の兄貴たち」&lt;/p&gt;&lt;/blockquote&gt;&#xA;&lt;h4 id=&#34;頒布情報&#34;&gt;頒布情報&lt;/h4&gt;&#xA;&lt;blockquote&gt;&#xA;&lt;p&gt;新刊「&lt;a href=&#34;../main/&#34;&gt;園田智代子と学ぶフィルタ入門&lt;/a&gt;」 &lt;br&gt;&#xA;¥700&lt;/p&gt;&#xA;&lt;p&gt;既刊「&lt;a href=&#34;../../c100/main/&#34;&gt;佐久間まゆとRでデータ解析する本&lt;/a&gt;」 &lt;br&gt;&#xA;¥1,000&lt;/p&gt;&#xA;&lt;p&gt;既刊「&lt;a href=&#34;../../c99/main/&#34;&gt;アンデスにUnity触らせる本&lt;/a&gt;」 &lt;br&gt;&#xA;¥1,000&lt;/p&gt;&lt;/blockquote&gt;</description>
     </item>
     <item>
       <title>園田智代子と学ぶフィルタ入門</title>
       <link>https://mori-no-anikitachi.github.io/c101/main/</link>
       <pubDate>Tue, 13 Dec 2022 18:25:22 +0530</pubDate>
       <guid>https://mori-no-anikitachi.github.io/c101/main/</guid>
-      <description>内容 アイドルマスターシャイニーカラーズ に登場するキャラ園田智代子は、ある日太ったことを他のメンバーに疑われる。 智代子が恐る恐る体重計に乗ると、その数値はたしかに増えていた！ しかし、体重計を他のモノに変えてみると、いつも通りの体重が表示されている。 一体どちらの結果が正しいのかと悩む中、有栖川夏葉が『正しい体重を推測しよう！』と偶然手元にあったカルマンフィルタの本を広げはじめる。 果たして本当に太ったのか、それともただ体重計が壊れているだけなのか&amp;hellip;&amp;hellip;。&#xA;まえがき/はじめに 第1章「体重計がおかしい！」&#xA;第2章「エラーバーで体重計を厳選しよう」&#xA;第3章「簡単な傾向予測をしよう」&#xA;第4章「推定値を求めよう」&#xA;第5章「g-h フィルタを学ぼう」&#xA;第6章「エピローグ」&#xA;あとがき/さいごに</description>
+      <description>&lt;h4 id=&#34;内容&#34;&gt;内容&lt;/h4&gt;&#xA;&lt;p&gt;&lt;code&gt;アイドルマスターシャイニーカラーズ&lt;/code&gt; に登場するキャラ&lt;code&gt;園田智代子&lt;/code&gt;は、ある日太ったことを他のメンバーに疑われる。&#xA;智代子が恐る恐る体重計に乗ると、その数値はたしかに増えていた！&#xA;しかし、体重計を他のモノに変えてみると、いつも通りの体重が表示されている。&#xA;一体どちらの結果が正しいのかと悩む中、&lt;code&gt;有栖川夏葉&lt;/code&gt;が『正しい体重を推測しよう！』と偶然手元にあったカルマンフィルタの本を広げはじめる。&#xA;果たして本当に太ったのか、それともただ体重計が壊れているだけなのか&amp;hellip;&amp;hellip;。&lt;/p&gt;&#xA;&lt;blockquote&gt;&#xA;&lt;p&gt;まえがき/はじめに &lt;br&gt;&#xA;第1章「体重計がおかしい！」&lt;br&gt;&#xA;第2章「エラーバーで体重計を厳選しよう」&lt;br&gt;&#xA;第3章「簡単な傾向予測をしよう」&lt;br&gt;&#xA;第4章「推定値を求めよう」&lt;br&gt;&#xA;第5章「g-h フィルタを学ぼう」&lt;br&gt;&#xA;第6章「エピローグ」&lt;br&gt;&#xA;あとがき/さいごに&lt;/p&gt;&lt;/blockquote&gt;</description>
     </item>
   </channel>
 </rss>

@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>C106s on 森の兄貴たち</title>
+    <link>https://mori-no-anikitachi.github.io/c106/</link>
+    <description>Recent content in C106s on 森の兄貴たち</description>
+    <generator>Hugo</generator>
+    <language>ja-jp</language>
+    <lastBuildDate>Mon, 28 Jul 2025 18:25:22 +0530</lastBuildDate>
+    <atom:link href="https://mori-no-anikitachi.github.io/c106/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>篠澤広に教わる Android Studio</title>
+      <link>https://mori-no-anikitachi.github.io/c106/main/</link>
+      <pubDate>Mon, 28 Jul 2025 18:25:22 +0530</pubDate>
+      <guid>https://mori-no-anikitachi.github.io/c106/main/</guid>
+      <description>&lt;h4 id=&#34;内容&#34;&gt;内容&lt;/h4&gt;&#xA;&lt;p&gt;&lt;code&gt;学園アイドルマスター&lt;/code&gt;に登場する&lt;code&gt;月村手毬&lt;/code&gt;は、ある日生徒会から記事作成の依頼を受けた。&#xA;しかし記事の管理には &lt;code&gt;GitHub&lt;/code&gt;をつかっているという。&#xA;要らぬ見栄を張ってしまった手毬は、&lt;code&gt;花海咲季&lt;/code&gt;を巻き込む形で &lt;code&gt;Git&lt;/code&gt;と&lt;code&gt;GitHub&lt;/code&gt;をはじめる。&lt;/p&gt;&#xA;&lt;blockquote&gt;&#xA;&lt;p&gt;まえがき/はじめに &lt;br&gt;&#xA;プロローグ &lt;br&gt;&#xA;第1章「Git・Github開発環境の構築」&lt;br&gt;&#xA;第2章「Gitって何」&lt;br&gt;&#xA;第3章「リポジトリを作ろう」&lt;br&gt;&#xA;第4章「リモートに変更を反映しよう」&lt;br&gt;&#xA;第5章「はじめてのチーム開発」&lt;br&gt;&#xA;第6章「Visual Studio CodeでGitを使う」&lt;br&gt;&#xA;第7章「便利な機能：一般向け」&lt;br&gt;&#xA;第8章「便利な機能：共同開発向け」&lt;br&gt;&#xA;第9章「エピローグ」&lt;br&gt;&#xA;付録A「本書で登場した用語・コマンド」&lt;br&gt;&#xA;あとがき/さいごに&lt;/p&gt;&lt;/blockquote&gt;</description>
+    </item>
+  </channel>
+</rss>

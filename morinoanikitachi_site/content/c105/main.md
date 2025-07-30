@@ -36,5 +36,5 @@ isMenu = false
 > 付録B「プログラム一覧」<br>
 > あとがき/さいごに
 
-#### 公開予定
-準備中
+#### ソースコード
+> ソースコードは<a href="https://github.com/mori-no-anikitachi/mori-no-anikitachi.github.io/releases/download/C105/c105-pgm.zip" download>こちら</a>

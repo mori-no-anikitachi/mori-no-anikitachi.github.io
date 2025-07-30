@@ -33,4 +33,4 @@ Wi-Fiを利用できるマイコンボード`ESP-WROOM-32`を使って、はじ�
 
 
 #### ソースコード
-> ソースコード(.ino)は<a href="/event_source/c102/C102_ino.zip" download>こちら</a>
+> ソースコード(.ino)は<a href="https://github.com/mori-no-anikitachi/mori-no-anikitachi.github.io/releases/download/C102/c102-arduino.zip" download>こちら</a>

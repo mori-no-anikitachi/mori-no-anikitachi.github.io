@@ -5,7 +5,7 @@
     <div class="row justify-content-start">
       {{ range $index, $element := where .Site.Pages ".Params.isMenu" false }}
         {{ if eq $element.Params.isBook true }}
-          <div class="col-xs-6 col-sm-6 col-md-4 col-lg-3">
+          <div class="col-xs-6 col-sm-6 col-md-4 col-lg-2 col-wqhd-6">
               <h4 style="margin-top:0px"> <a href="{{ $element.Permalink }}" style="color:#000000" >{{ $element.Params.EventName }}</a> </h4>
               <div class="box-masonry">
                   {{ if and (isset $element.Params "image") $element.Params.image }}
@@ -48,7 +48,7 @@
   <div class="row grid">
     {{ range $index, $element := where .Site.Pages ".Params.isMenu" false }}
       {{ if eq $element.Params.isBook false }}
-        <div class="col-xs-6 col-sm-6 col-md-3 col-lg-3 masonry-item">
+        <div class="col-xs-6 col-sm-6 col-md-3 col-lg-3 masonry-item col-wqhd-6">
           <a href="{{ $element.Permalink }}" style="color:#000000">{{ $element.Params.date | time.Format "2006-01-02" }}<br>{{ $element.Params.title }}</a>
             <div class="box-masonry">
                 {{ if and (isset $element.Params "image") $element.Params.image }}

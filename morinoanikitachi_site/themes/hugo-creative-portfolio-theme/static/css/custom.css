@@ -1,1 +1,29 @@
-/* your styles go here */
+/* WQHD (>=2560px) で 2カラム表示にする */
+@media (min-width: 2560px) {
+  .col-wqhd-6 {
+    float: left !important;
+    width: 16% !important;
+    position: relative;
+    min-height: 1px;
+    padding-left: 15px;
+    padding-right: 15px;
+  }
+}
+
+/* top-size: ページ両端をそれぞれ5%空けて中央寄せにする */
+.top-size {
+  /* 幅を画面幅の90%にして中央に配置（左右それぞれ5%の余白相当） */
+  max-width: 90%;
+  margin-left: auto;
+  margin-right: auto;
+  box-sizing: border-box;
+}
+
+/* モバイル等で必要なら左右パディング方式に切り替える（任意） */
+@media (max-width: 576px) {
+  .top-size {
+    max-width: 100%;
+    padding-left: 5%;
+    padding-right: 5%;
+  }
+}

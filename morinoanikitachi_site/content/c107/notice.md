@@ -1,9 +1,8 @@
 +++
 showonlyimage = true
-draft = true
 image = "img/C107/notice/oshinagaki.jpg"
 ogpImage = "img/C107/notice/oshinagaki_ogp.jpg"
-date = "2025-11-10T18:25:22+05:30"
+date = "2025-12-20T18:25:22+05:30"
 title = "C107 2日目東U-02aで頒布します"
 IsSummaryLargeImage = true
 EventName = "C107"

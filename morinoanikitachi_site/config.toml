@@ -73,6 +73,7 @@ disableKinds = ['taxonomy', 'term']
   [params.seo]
     CommonKeywords ="アイマス,技術,コミケ,技術本,プログラミング,情報,アイドルマスター,学園アイドルマスター,シンデレラガールズ,デレマス,デレステ,コミックマーケット,Comic market"
     [params.seo.EventKeywords]
+      C108 =  "C108,React,Web開発,TailwindCSS,倉本千奈,秦谷美鈴"
       C107 =  "C107,Whitespace,葛城リーリヤ,有村麻央"
       C106 =  "C106,Git,GitHub,月村手毬,花海咲季"
       C105 =  "C105,Android,Android Studio,Java,アプリ開発,篠澤広,藤田ことね"

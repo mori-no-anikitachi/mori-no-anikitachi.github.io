@@ -6,8 +6,15 @@
     <description>Recent content on 森の兄貴たち</description>
     <generator>Hugo</generator>
     <language>ja-jp</language>
-    <lastBuildDate>Sat, 20 Dec 2025 18:25:22 +0530</lastBuildDate>
+    <lastBuildDate>Sat, 01 Aug 2026 18:25:22 +0530</lastBuildDate>
     <atom:link href="https://mori-no-anikitachi.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>秦谷美鈴と学ぶ React入門</title>
+      <link>https://mori-no-anikitachi.github.io/c108/main/</link>
+      <pubDate>Sat, 01 Aug 2026 18:25:22 +0530</pubDate>
+      <guid>https://mori-no-anikitachi.github.io/c108/main/</guid>
+      <description>&lt;h4 id=&#34;内容&#34;&gt;内容&lt;/h4&gt;&#xA;&lt;p&gt;&lt;code&gt;学園アイドルマスター&lt;/code&gt;に登場する&lt;code&gt;秦谷美鈴&lt;/code&gt;と&lt;code&gt;倉本千奈&lt;/code&gt;は、学園広報用サイトの作成担当に任命された。&#xA;2人はReact・Tailwind CSSを駆使して、初めてのWebページ開発に挑戦する。&lt;/p&gt;&#xA;&lt;blockquote&gt;&#xA;&lt;p&gt;まえがき/はじめに &lt;br&gt;&#xA;プロローグ &lt;br&gt;&#xA;第1章「環境をセットアップしよう」&lt;br&gt;&#xA;第2章「デフォルトページで練習しよう」&lt;br&gt;&#xA;第3章「ページ遷移を作ろう」&lt;br&gt;&#xA;第4章「説明欄のエリアを作ろう」&lt;br&gt;&#xA;第5章「説明欄を増やそう」&lt;br&gt;&#xA;第6章「トップ画像を作ろう」&lt;br&gt;&#xA;第7章「ヘッダーを作ろう」&lt;br&gt;&#xA;第8章「フッターを作ろう」&lt;br&gt;&#xA;第9章「ハンバーガーメニューを作ろう」&lt;br&gt;&#xA;第10章「他のページも作ろう」&lt;br&gt;&#xA;第11章「エピローグ」&lt;br&gt;&#xA;あとがき/さいごに&lt;/p&gt;&lt;/blockquote&gt;&#xA;&lt;h4 id=&#34;ソースコード&#34;&gt;ソースコード&lt;/h4&gt;&#xA;&lt;blockquote&gt;&#xA;&lt;p&gt;ソースコードは近日公開予定。&lt;/p&gt;&lt;/blockquote&gt;</description>
+    </item>
     <item>
       <title>C107 2日目南h-33aで頒布します</title>
       <link>https://mori-no-anikitachi.github.io/c107/notice/</link>

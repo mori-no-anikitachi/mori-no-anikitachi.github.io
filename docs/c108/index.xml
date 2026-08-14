@@ -1,26 +1,31 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
-  <channel>
-    <title>C108s on 森の兄貴たち</title>
-    <link>https://mori-no-anikitachi.github.io/c108/</link>
-    <description>Recent content in C108s on 森の兄貴たち</description>
-    <generator>Hugo</generator>
-    <language>ja-jp</language>
-    <lastBuildDate>Tue, 04 Aug 2026 18:25:22 +0530</lastBuildDate>
-    <atom:link href="https://mori-no-anikitachi.github.io/c108/index.xml" rel="self" type="application/rss+xml" />
-    <item>
-      <title>C108 2日目東V-42bで頒布します</title>
-      <link>https://mori-no-anikitachi.github.io/c108/notice/</link>
-      <pubDate>Tue, 04 Aug 2026 18:25:22 +0530</pubDate>
-      <guid>https://mori-no-anikitachi.github.io/c108/notice/</guid>
-      <description>&lt;h4 id=&#34;日時サークル情報&#34;&gt;日時・サークル情報&lt;/h4&gt;&#xA;&lt;blockquote&gt;&#xA;&lt;p&gt;C108 2日目 2026/08/16(日) &lt;br&gt;&#xA;東V-42b「森の兄貴たち」&lt;/p&gt;&lt;/blockquote&gt;&#xA;&lt;h4 id=&#34;頒布情報&#34;&gt;頒布情報&lt;/h4&gt;&#xA;&lt;blockquote&gt;&#xA;&lt;p&gt;新刊「&lt;a href=&#34;../../c108/main&#34;&gt;秦谷美鈴と学ぶ React入門&lt;/a&gt;」 &lt;br&gt;&#xA;¥1,200&lt;/p&gt;&#xA;&lt;p&gt;既刊「&lt;a href=&#34;../../c107/main&#34;&gt;葛城リーリヤのための Whitespace&lt;/a&gt;」 &lt;br&gt;&#xA;¥1,000&lt;/p&gt;&#xA;&lt;p&gt;既刊「&lt;a href=&#34;../../c106/main&#34;&gt;月村手毬とはじめる Git &amp;amp; Github&lt;/a&gt;」 &lt;br&gt;&#xA;¥1,000&lt;/p&gt;&#xA;&lt;p&gt;既刊「&lt;a href=&#34;../../c105/main&#34;&gt;篠澤広に教わるAndroid Studio&lt;/a&gt;」 &lt;br&gt;&#xA;¥1,800&lt;/p&gt;&#xA;&lt;p&gt;既刊「&lt;a href=&#34;../../c104/main&#34;&gt;森久保乃々とはじめるアセンブリ言語&lt;/a&gt;」 &lt;br&gt;&#xA;¥1,000&lt;/p&gt;&#xA;&lt;p&gt;既刊「&lt;a href=&#34;../../c103/main/&#34;&gt;佐々木千枝とFusion360する本&lt;/a&gt;」 &lt;br&gt;&#xA;¥1,000&lt;/p&gt;&lt;/blockquote&gt;</description>
-    </item>
-    <item>
-      <title>秦谷美鈴と学ぶ React入門</title>
-      <link>https://mori-no-anikitachi.github.io/c108/main/</link>
-      <pubDate>Sat, 01 Aug 2026 18:25:22 +0530</pubDate>
-      <guid>https://mori-no-anikitachi.github.io/c108/main/</guid>
-      <description>&lt;h4 id=&#34;内容&#34;&gt;内容&lt;/h4&gt;&#xA;&lt;p&gt;&lt;code&gt;学園アイドルマスター&lt;/code&gt;に登場する&lt;code&gt;秦谷美鈴&lt;/code&gt;と&lt;code&gt;倉本千奈&lt;/code&gt;は、学園広報用サイトの作成担当に任命された。&#xA;2人はReact・Tailwind CSSを駆使して、初めてのWebページ開発に挑戦する。&lt;/p&gt;&#xA;&lt;blockquote&gt;&#xA;&lt;p&gt;まえがき/はじめに &lt;br&gt;&#xA;プロローグ &lt;br&gt;&#xA;第1章「環境をセットアップしよう」&lt;br&gt;&#xA;第2章「デフォルトページで練習しよう」&lt;br&gt;&#xA;第3章「ページ遷移を作ろう」&lt;br&gt;&#xA;第4章「説明欄のエリアを作ろう」&lt;br&gt;&#xA;第5章「説明欄を増やそう」&lt;br&gt;&#xA;第6章「トップ画像を作ろう」&lt;br&gt;&#xA;第7章「ヘッダーを作ろう」&lt;br&gt;&#xA;第8章「フッターを作ろう」&lt;br&gt;&#xA;第9章「ハンバーガーメニューを作ろう」&lt;br&gt;&#xA;第10章「他のページも作ろう」&lt;br&gt;&#xA;第11章「エピローグ」&lt;br&gt;&#xA;あとがき/さいごに&lt;/p&gt;&lt;/blockquote&gt;&#xA;&lt;h4 id=&#34;ソースコード&#34;&gt;ソースコード&lt;/h4&gt;&#xA;&lt;blockquote&gt;&#xA;&lt;p&gt;ソースコードは近日公開予定。&lt;/p&gt;&lt;/blockquote&gt;</description>
-    </item>
-  </channel>
+	<channel>
+		<title>C108s on 森の兄貴たち</title>
+		<link>https://mori-no-anikitachi.github.io/c108/</link>
+		<description>Recent content in C108s on 森の兄貴たち</description>
+		<generator>Hugo</generator>
+		<language>ja-jp</language>
+		
+		
+		
+		
+			<lastBuildDate>Tue, 04 Aug 2026 18:25:22 +0530</lastBuildDate>
+		
+			<atom:link href="https://mori-no-anikitachi.github.io/c108/index.xml" rel="self" type="application/rss+xml" />
+			<item>
+				<title>C108 2日目東V-42bで頒布します</title>
+				<link>https://mori-no-anikitachi.github.io/c108/notice/</link>
+				<pubDate>Tue, 04 Aug 2026 18:25:22 +0530</pubDate>
+				<guid>https://mori-no-anikitachi.github.io/c108/notice/</guid>
+				<description>&lt;h4 id=&#34;日時サークル情報&#34;&gt;日時・サークル情報&lt;/h4&gt;&#xA;&lt;blockquote&gt;&#xA;&lt;p&gt;C108 2日目 2026/08/16(日) &lt;br&gt;&#xA;東V-42b「森の兄貴たち」&lt;/p&gt;&#xA;&lt;/blockquote&gt;&#xA;&lt;h4 id=&#34;頒布情報&#34;&gt;頒布情報&lt;/h4&gt;&#xA;&lt;blockquote&gt;&#xA;&lt;p&gt;新刊「&lt;a href=&#34;../../c108/main&#34;&gt;秦谷美鈴と学ぶ React入門&lt;/a&gt;」 &lt;br&gt;&#xA;¥1,200&lt;/p&gt;&#xA;&lt;p&gt;既刊「&lt;a href=&#34;../../c107/main&#34;&gt;葛城リーリヤのための Whitespace&lt;/a&gt;」 &lt;br&gt;&#xA;¥1,000&lt;/p&gt;&#xA;&lt;p&gt;既刊「&lt;a href=&#34;../../c106/main&#34;&gt;月村手毬とはじめる Git &amp;amp; Github&lt;/a&gt;」 &lt;br&gt;&#xA;¥1,000&lt;/p&gt;&#xA;&lt;p&gt;既刊「&lt;a href=&#34;../../c105/main&#34;&gt;篠澤広に教わるAndroid Studio&lt;/a&gt;」 &lt;br&gt;&#xA;¥1,800&lt;/p&gt;&#xA;&lt;p&gt;既刊「&lt;a href=&#34;../../c104/main&#34;&gt;森久保乃々とはじめるアセンブリ言語&lt;/a&gt;」 &lt;br&gt;&#xA;¥1,000&lt;/p&gt;&#xA;&lt;p&gt;既刊「&lt;a href=&#34;../../c103/main/&#34;&gt;佐々木千枝とFusion360する本&lt;/a&gt;」 &lt;br&gt;&#xA;¥1,000&lt;/p&gt;&#xA;&lt;/blockquote&gt;</description>
+			</item>
+			<item>
+				<title>秦谷美鈴と学ぶ React入門</title>
+				<link>https://mori-no-anikitachi.github.io/c108/main/</link>
+				<pubDate>Sat, 01 Aug 2026 18:25:22 +0530</pubDate>
+				<guid>https://mori-no-anikitachi.github.io/c108/main/</guid>
+				<description>&lt;h4 id=&#34;内容&#34;&gt;内容&lt;/h4&gt;&#xA;&lt;p&gt;&lt;code&gt;学園アイドルマスター&lt;/code&gt;に登場する&lt;code&gt;秦谷美鈴&lt;/code&gt;と&lt;code&gt;倉本千奈&lt;/code&gt;は、学園広報用サイトの作成担当に任命された。&#xA;2人はReact・Tailwind CSSを駆使して、初めてのWebページ開発に挑戦する。&lt;/p&gt;&#xA;&lt;blockquote&gt;&#xA;&lt;p&gt;まえがき/はじめに &lt;br&gt;&#xA;プロローグ &lt;br&gt;&#xA;第1章「環境をセットアップしよう」&lt;br&gt;&#xA;第2章「デフォルトページで練習しよう」&lt;br&gt;&#xA;第3章「ページ遷移を作ろう」&lt;br&gt;&#xA;第4章「説明欄のエリアを作ろう」&lt;br&gt;&#xA;第5章「説明欄を増やそう」&lt;br&gt;&#xA;第6章「トップ画像を作ろう」&lt;br&gt;&#xA;第7章「ヘッダーを作ろう」&lt;br&gt;&#xA;第8章「フッターを作ろう」&lt;br&gt;&#xA;第9章「ハンバーガーメニューを作ろう」&lt;br&gt;&#xA;第10章「他のページも作ろう」&lt;br&gt;&#xA;第11章「エピローグ」&lt;br&gt;&#xA;あとがき/さいごに&lt;/p&gt;&#xA;&lt;/blockquote&gt;&#xA;&lt;h4 id=&#34;ソースコード&#34;&gt;ソースコード&lt;/h4&gt;&#xA;&lt;blockquote&gt;&#xA;&lt;p&gt;ソースコードは近日公開予定。&lt;/p&gt;&#xA;&lt;/blockquote&gt;</description>
+			</item>
+	</channel>
 </rss>

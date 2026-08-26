@@ -9,7 +9,11 @@
         {{ end }}
         <h1>{{ .Title }}</h1>
         {{ if eq .Params.isBook true }}
-          <p>{{ .Params.EventDescription }}</p>
+          <p>{{ .Params.EventDescription }}
+          {{if .Params.OnlineShopLink }}
+            　通販は<a href="{{ .Params.OnlineShopLink }}" target="_blank">こちら</a>(委託先の通販リンクにジャンプします。)
+          {{ end }}
+          </p>
         {{ end }}
       </div>
     </div>

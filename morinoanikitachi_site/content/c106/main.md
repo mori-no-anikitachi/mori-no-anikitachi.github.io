@@ -9,6 +9,7 @@ IsSummaryLargeImage = true
 EventDescription = "初版：C106(2025/08/17)"
 EventName = "C106"
 Description = "月村手毬といっしょに、Git&GitHubに挑戦しよう！"
+OnlineShopLink = "https://artifactnoise.stores.jp/items/6a85cb802b412d8d1565834e"
 weight = 1
 isBook = true
 isMenu = false

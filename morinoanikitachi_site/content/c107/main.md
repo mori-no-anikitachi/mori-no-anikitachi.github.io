@@ -9,6 +9,7 @@ IsSummaryLargeImage = true
 EventDescription = "初版：C107(2025/11/10)"
 EventName = "C107"
 Description = "葛城リーリヤといっしょに、Whitespaceに挑戦しよう！"
+OnlineShopLink = "https://artifactnoise.stores.jp/items/6a85ccd8c232b08c9fff8632"
 weight = 1
 isBook = true
 isMenu = false

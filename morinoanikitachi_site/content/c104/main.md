@@ -7,6 +7,7 @@ date = "2024-07-29T18:25:22+05:30"
 title = "森久保乃々とはじめるアセンブリ言語 RISC-V RV32I"
 IsSummaryLargeImage = true
 EventDescription = "初版：C104(2024/08/12)"
+OnlineShopLink = "https://artifactnoise.stores.jp/items/6a85ca742b412d889a6583cb"
 EventName = "C104"
 Description = "RISC-Vしような！森久保ォ！"
 weight = 1

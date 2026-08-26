@@ -9,6 +9,7 @@ IsSummaryLargeImage = true
 EventDescription = "初版：C105(2024/12/30)"
 EventName = "C105"
 Description = "篠澤広に教わりながら、藤田ことねと一緒にAndroidアプリ開発をはじめよう！"
+OnlineShopLink = "https://artifactnoise.stores.jp/items/6a85cb1012e4fd861f4e5277"
 weight = 1
 isBook = true
 isMenu = false

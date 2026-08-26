@@ -9,6 +9,7 @@ IsSummaryLargeImage = true
 EventDescription = "初版：C103(2023/12/31)"
 EventName = "C103"
 Description = "佐々木千枝ちゃんとFusion360したかった..."
+OnlineShopLink = "https://artifactnoise.stores.jp/items/6a85ca08c232b083bdff85ea"
 weight = 1
 isBook = true
 isMenu = false

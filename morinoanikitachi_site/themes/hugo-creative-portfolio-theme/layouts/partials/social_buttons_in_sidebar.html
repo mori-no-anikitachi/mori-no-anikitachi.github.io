@@ -10,8 +10,8 @@
   </a>
   {{end}}
   {{ with .Site.Params.social.twitter }}
-  <a href="{{ . }}" data-animate-hover="pulse" class="external twitter" title="Twitter">
-    <i class="fa-brands fa-twitter"></i>
+  <a href="{{ . }}" data-animate-hover="pulse" class="external twitter" title="X">
+    <i class="fa-brands fa-x-twitter"></i>
   </a>
   {{end}}
   {{ with .Site.Params.social.instagram }}
@@ -52,6 +52,11 @@
   {{ with .Site.Params.social.whatsapp }}
   <a href="{{ . }}" data-animate-hover="pulse" class="external" title="WhatsApp">
     <i class="fa-brands fa-whatsapp"></i>
+  </a>
+  {{end}}
+  {{ with .Site.Params.social.shopping }}
+  <a href="{{ . }}" data-animate-hover="pulse" class="external" title="Online Store (委託販売)">
+    <i class="fa-solid fa-cart-shopping"></i>
   </a>
   {{end}}
 </p>

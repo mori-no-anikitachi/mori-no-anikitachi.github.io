@@ -51,10 +51,15 @@ disableKinds = ['taxonomy', 'term']
   [[params.navlinks]]
   name = "About"
   url = "about/"
+  
+  [[params.navlinks]]
+  name = "Online Store (委託)"
+  url = "https://artifactnoise.stores.jp/"
 
   [[params.navlinks]]
   name = "Get in touch"
   url = "contact/"
+
 
   [params.social]
   # facebook      = "full page or profile url in facebook"
@@ -69,6 +74,7 @@ disableKinds = ['taxonomy', 'term']
   # gitlab        = "full profile url in gitlab"
   # youtube       = "full profile url in youtube"
   # whatsapp      = "wa.me service link"
+  shopping      = "https://artifactnoise.stores.jp/"
 
   [params.seo]
     CommonKeywords ="アイマス,技術,コミケ,技術本,プログラミング,情報,アイドルマスター,学園アイドルマスター,シンデレラガールズ,デレマス,デレステ,コミックマーケット,Comic market"
